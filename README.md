@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Affyn's Marketplace and related Products
 - 🌱 I’m currently learning Blockchain
+- 📜 Certifications i'm working on : AWS Solutions Architect (Associate) and AWS Developer 
 - 📫 How to reach me: hejunwong@affyn.com
 
 ## 🌐 Socials:
